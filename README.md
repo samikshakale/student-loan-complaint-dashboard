@@ -8,3 +8,5 @@ Student loan complaints have risen over the last couple of years. Furthermore, n
 - % Company Response: click on a slice from the pie chart to view the percentage and count of complaints for that category
 ## How to Use
 Download the `Student Loan Dashboard.twbx` file and you can access it using your Tableau Public account and view on Tableau Desktop.
+## Credits
+The visualization is inspired by Gandes Goldestan
